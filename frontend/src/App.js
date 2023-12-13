@@ -1,7 +1,9 @@
 
 import './App.css';
-import Nav from './Nav'
+import Nav from './components/Nav'
+import Footer from './components/Footer';
 import { BrowserRouter, Routes ,Route } from 'react-router-dom';
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
         <Route path="/profile" element={<h1>Product product component</h1>} />
       </Routes>
       </BrowserRouter>
+      <Footer></Footer>
     </div>
   );
 }
