@@ -1,7 +1,7 @@
 First things first
 installations-----
-         node.js
-         mongodb
+         node.js/
+         mongodb/
          mongodbcompass
          
                            frontend
