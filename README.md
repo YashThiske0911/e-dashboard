@@ -18,3 +18,15 @@ installations-----
 
 database name->>>>>>>>>  e-commerce
          document->>>>> users
+
+
+
+
+RUN FRONTEND----------
+                           npm start
+
+
+RUN Backend------------
+                           nodemon
+
+                           
