@@ -5,11 +5,13 @@ installations-----
          mongodbcompass
          
                            frontend
+                           1.npm install
                                     npm i react
                                     npm i react-router-dom
 
                                     
                            backend
+                           
                                     npm i express
                                     npm i nodemon
                                     npm i cors
